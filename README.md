@@ -19,5 +19,8 @@ DAX (Data Analysis Expressions)
 Data Cleaning & Modeling
 Interactive Visualizations
 
+⚠️ Due to file size limitations, the Power BI (.pbix) file is not uploaded to GitHub.
+The dashboard screenshots are provided, and the PBIX file can be shared upon request.
+
 
 
