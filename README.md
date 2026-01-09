@@ -1,4 +1,4 @@
-Netflix Movies & TV Shows Analysis | Power BI
+Netflix titles data Analysis | Power BI
 **Project Overview**
 
 This project analyzes the Netflix Movies and TV Shows dataset using Power BI to uncover insights into Netflix’s content library. 
